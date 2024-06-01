@@ -1,0 +1,8 @@
+text,sentiment
+"The product exceeded my expectations!",positive
+"Terrible customer service, will not buy again.",negative
+"Average performance, nothing special.",neutral
+"Highly recommended, great value for money.",positive
+"Disappointed with the quality, returning it.",negative
+"Okay product, could be better.",neutral
+"I love it! Best purchase ever.",positive
