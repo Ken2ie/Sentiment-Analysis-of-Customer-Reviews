@@ -18,7 +18,7 @@ This project aims to develop a sentiment analysis model capable of classifying c
 1. **Clone the Repository**: Begin by cloning this repository to your local machine.
 
     ```
-    git clone https://github.com/your-username/sentiment-analysis-project.git
+    git clone https://github.com/Ken2ie/Sentiment-Analysis-of-Customer-Reviews.git
     ```
 
 2. **Install Dependencies**: Ensure you have Python installed on your machine. Install the required dependencies using pip.
